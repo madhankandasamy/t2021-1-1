@@ -3,7 +3,7 @@ I have completed the given assesments  in give folder Problem 1 and problem 2
 
 # Problem 1 
 Using HTML and CSS problem 1 is solved
-layout tags are header, nav ,section ,article,footer,flaot,clear
+layout tags are header, nav ,section ,article,footer and ccs layout protery are float,clear
 
 
 # Problem 2
